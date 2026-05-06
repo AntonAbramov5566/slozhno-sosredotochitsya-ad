@@ -1,6 +1,7 @@
 .page {
   min-block-size: 100vh;
   background-color: var(--page-background-color);
+  background-attachment: fixed;
   color: var(--main-text-color);
   font-family: var(--page-font-family);
   font-size: 18px;
